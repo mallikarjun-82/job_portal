@@ -20,8 +20,8 @@ function App() {
     <div className="App">
       {/* Wrap your app with AuthProvider */}
       <Router>
-        <Routes>
-          <Route exact path="/" element={<Home />} />
+        <Routes basename="/job_portal">
+          <Route exact path="/job_portal" element={<Home />} />
           <Route exact path="/loginuser" element={<UserLogin />} />
           <Route exact path="/loginrecruiter" element={<RecruiterLogin />} />
           <Route exact path="/registeruser" element={<UserRegister />} />
