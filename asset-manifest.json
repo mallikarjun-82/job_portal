@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/job_portal/static/css/main.7baf9f03.css",
-    "main.js": "/job_portal/static/js/main.41f16eb6.js",
+    "main.css": "/job_portal/static/css/main.074ca3bd.css",
+    "main.js": "/job_portal/static/js/main.64fb64de.js",
     "static/js/453.9c7615ba.chunk.js": "/job_portal/static/js/453.9c7615ba.chunk.js",
     "static/media/fa-solid-900.ttf": "/job_portal/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/job_portal/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/job_portal/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/job_portal/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/job_portal/index.html",
-    "main.7baf9f03.css.map": "/job_portal/static/css/main.7baf9f03.css.map",
-    "main.41f16eb6.js.map": "/job_portal/static/js/main.41f16eb6.js.map",
+    "main.074ca3bd.css.map": "/job_portal/static/css/main.074ca3bd.css.map",
+    "main.64fb64de.js.map": "/job_portal/static/js/main.64fb64de.js.map",
     "453.9c7615ba.chunk.js.map": "/job_portal/static/js/453.9c7615ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7baf9f03.css",
-    "static/js/main.41f16eb6.js"
+    "static/css/main.074ca3bd.css",
+    "static/js/main.64fb64de.js"
   ]
 }
